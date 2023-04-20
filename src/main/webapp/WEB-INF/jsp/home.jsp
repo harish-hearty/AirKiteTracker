@@ -13,7 +13,7 @@
    <!-- Header contents -->
    <header>
       <div class="navigation">
-         <h1 class="logo">AirKite Tracker</h1>
+         <h1 class="logo">AirKite Navigator</h1>
          <div class="nav-contents">
             <ul>
                <li><a href="/">Home</a></li>

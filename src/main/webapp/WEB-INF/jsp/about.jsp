@@ -13,7 +13,7 @@
    <!-- Header contents -->
    <header>
       <div class="navigation">
-         <h1 class="logo">AirKite Tracker</h1>
+         <h1 class="logo">AirKite Navigator</h1>
          <div class="nav-contents">
             <ul>
                <li><a href="/">Home</a></li>
@@ -66,7 +66,7 @@
 
    <footer>
       <h3 class="footContent">
-         Created By AirKite Tracker | © 2023 All rights reserved.
+         Created By AirKite Navigator | © 2023 All rights reserved.
       </h3>
    </footer>
    <video src="/videos/bg-video.mp4" autoplay muted loop></video>

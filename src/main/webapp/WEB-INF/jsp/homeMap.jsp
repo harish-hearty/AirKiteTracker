@@ -19,7 +19,7 @@
    <header>
       <div class="navigation">
         <div class="logoLive">
-          <h1 class="logo">AirKite Tracker</h1>
+          <h1 class="logo">AirKite Navigator</h1>
           <div class="liveContainer">
             <img class="live" src="/images/live.jpeg" alt="live">
             <p>Live</p>
